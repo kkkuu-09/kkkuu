@@ -1,0 +1,39 @@
+cd litum-commodity
+pwd
+git remote update
+git pull --all
+
+cd ../litum-commodity-options
+pwd
+git remote update
+git pull --all
+
+cd ../litum-finrun
+pwd
+git remote update
+git pull --all
+
+cd ../litum-stock
+pwd
+git remote update
+git pull --all
+
+cd ../litum-stock-strategy-demo
+pwd
+git remote update
+git pull --all
+
+cd ../litum-tools
+pwd
+git remote update
+git pull --all
+
+cd ../litum-trade-interface
+pwd
+git remote update
+git pull --all
+
+cd ../market-data
+pwd
+git remote update
+git pull --all

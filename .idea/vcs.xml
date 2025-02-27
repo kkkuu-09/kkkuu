@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/litum-commodity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-commodity-options" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-finrun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-stock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-stock-strategy-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litum-trade-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/market-data" vcs="Git" />
+  </component>
+</project>
